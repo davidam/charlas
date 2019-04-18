@@ -10,6 +10,8 @@ Taller (110 minutos)
 
 La idea de la charla es presentar herramientas de Inteligencia Artificial como NLTK o Scikit para un caso práctico (la detección de género) y así poder este hecho en listas de correo, repositorios, u otros datasets. Se irán presentando las tres herramientas y se harán ejercicios prácticos.
 
+Damegender puede obtenerse desde https://github.com/davidam/damegender.
+
 ## Público objetivo
 
 + Nociones de programación e interés en Python.
